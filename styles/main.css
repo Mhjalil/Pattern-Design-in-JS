@@ -1,0 +1,52 @@
+
+/* -------- main Style---------- */
+
+body {
+    background: #292929;
+    color: #eaeaea;
+    padding: 0 16px;
+    font: 100% "Open Sans", Helvetica, Arial, sans-serif;
+    }
+           
+h1 {
+    font-size: 1.5em; 
+  }
+
+p {
+    font-size: 1em;
+    line-height: 1.6;
+}
+td {
+    max-width: 400px;
+    padding: 20px;
+}
+
+tr:nth-child(odd){
+    background-color: #343333;
+}
+
+a{
+    color: #ea6f05;
+
+}
+a:hover {
+    color: #f7c261 ;
+}
+
+em {
+    color: #ea6f05;
+    
+}
+
+
+
+/* -------- Styles for Hint ---------- */
+
+
+
+
+
+
+
+/* -------- Syntax Colors ---------- */
+
